@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221410
+test_cases:
+- expected_values:
+    MAZDA_FUEL_PW: 0
+    MAZDA_FUEL_WIDTH: 0
+  response: '7E8056214100000'
+- expected_values:
+    MAZDA_FUEL_PW: 2.04
+    MAZDA_FUEL_WIDTH: 2.04
+  response: 7E80562141000FF
+- expected_values:
+    MAZDA_FUEL_PW: 4.128
+    MAZDA_FUEL_WIDTH: 4.128
+  response: '7E8056214100204'

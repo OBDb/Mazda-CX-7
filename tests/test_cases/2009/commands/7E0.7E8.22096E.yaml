@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22096E
+test_cases:
+- expected_values:
+    MAZDA_IDLE: 625
+  response: 7E80562096E09C4
+- expected_values:
+    MAZDA_IDLE: 768.75
+  response: 7E80562096E0C03
+- expected_values:
+    MAZDA_IDLE: 831.25
+  response: 7E80562096E0CFD
+- expected_values:
+    MAZDA_IDLE: 906.25
+  response: 7E80562096E0E29

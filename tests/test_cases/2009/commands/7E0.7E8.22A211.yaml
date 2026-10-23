@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22A211
+test_cases:
+- expected_values:
+    MAZDA_4_WHL_DRIVE_ENGAGED: 0
+    MAZDA_BPA_SW: 0
+    MAZDA_CPP_SW: 0
+    MAZDA_IVS_SW: 0
+    MAZDA_PNP_SW: 0
+  response: 7E80562A2110000
+- expected_values:
+    MAZDA_4_WHL_DRIVE_ENGAGED: 0.2
+    MAZDA_BPA_SW: 0
+    MAZDA_CPP_SW: 0
+    MAZDA_IVS_SW: 0
+    MAZDA_PNP_SW: 0
+  response: 7E80562A2110002
+- expected_values:
+    MAZDA_4_WHL_DRIVE_ENGAGED: 409.6
+    MAZDA_BPA_SW: 0
+    MAZDA_CPP_SW: 0
+    MAZDA_IVS_SW: 1
+    MAZDA_PNP_SW: 0
+  response: 7E80562A2111000

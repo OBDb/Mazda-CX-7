@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2217F7
+test_cases:
+- expected_values:
+    MAZDA_LDP_IDL_CURRENT: 0.036
+    MAZDA_MX_5_LDP_IDL_CURRENT: 0.0367
+  response: 7E8056217F7FFFF
