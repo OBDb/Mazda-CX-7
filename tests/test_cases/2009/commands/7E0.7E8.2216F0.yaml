@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2216F0
+test_cases:
+- expected_values:
+    MAZDA_TIRESIZE: 712
+  response: 7E8056216F002C8

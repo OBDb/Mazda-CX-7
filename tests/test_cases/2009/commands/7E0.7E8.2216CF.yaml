@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2216CF
+test_cases:
+- expected_values:
+    MAZDA_VT_DUTY: 10.36393
+  response: 7E8056216CF0D44
+- expected_values:
+    MAZDA_VT_DUTY: 11.71588
+  response: 7E8056216CF0EFF
+- expected_values:
+    MAZDA_VT_DUTY: 11.71893
+  response: 7E8056216CF0F00
+- expected_values:
+    MAZDA_VT_DUTY: 51.82574
+  response: 7E8056216CF4256

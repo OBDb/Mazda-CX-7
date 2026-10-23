@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221746
+test_cases:
+- expected_values:
+    MAZDA_KNOCKR: 0
+  response: '7E80462174600'
+- expected_values:
+    MAZDA_KNOCKR: 5.98592
+  response: '7E80462174611'

@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.221169
+test_cases:
+- expected_values:
+    MAZDA_MX_5_TPCT: 98
+    MAZDA_TPCT: 98
+  response: '7E8056211691880'
+- expected_values:
+    MAZDA_MX_5_TPCT: 99
+    MAZDA_TPCT: 99
+  response: 7E80562116918C0

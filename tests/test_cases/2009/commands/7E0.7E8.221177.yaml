@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221177
+test_cases:
+- expected_values:
+    MAZDA_MAF_V: 4.72
+  response: '7E8056211771270'
+- expected_values:
+    MAZDA_MAF_V: 4.86
+  response: 7E80562117712FC
+- expected_values:
+    MAZDA_MAF_V: 5.12
+  response: '7E8056211771400'
+- expected_values:
+    MAZDA_MAF_V: 13.92
+  response: '7E8056211773660'

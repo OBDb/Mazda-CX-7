@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2217FA
+test_cases:
+- expected_values:
+    MAZDA_LDP_EVAPCP: 0
+    MAZDA_MX_5_LDP_EVAPCP: 0
+  response: 7E8056217FA0000

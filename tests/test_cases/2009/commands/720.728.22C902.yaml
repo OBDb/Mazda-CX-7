@@ -1,0 +1,32 @@
+command_id: 720.728.22C902
+test_cases:
+- expected_values:
+    MAZDA_TT_FL_720: 26.6
+    MAZDA_TT_FR_720: 24.8
+    MAZDA_TT_RL_720: 26.6
+    MAZDA_TT_RR_720: 24.8
+  response: 7280762C9022F2E2F2E
+- expected_values:
+    MAZDA_TT_FL_720: 64.4
+    MAZDA_TT_FR_720: 57.2
+    MAZDA_TT_RL_720: 62.6
+    MAZDA_TT_RR_720: 55.4
+  response: 7280762C9024440433F
+- expected_values:
+    MAZDA_TT_FL_720: 66.2
+    MAZDA_TT_FR_720: 55.4
+    MAZDA_TT_RL_720: 68
+    MAZDA_TT_RR_720: 57.2
+  response: 7280762C902453F4640
+- expected_values:
+    MAZDA_TT_FL_720: 68
+    MAZDA_TT_FR_720: 57.2
+    MAZDA_TT_RL_720: 68
+    MAZDA_TT_RR_720: 59
+  response: 7280762C90246404641
+- expected_values:
+    MAZDA_TT_FL_720: 69.8
+    MAZDA_TT_FR_720: 53.6
+    MAZDA_TT_RL_720: 62.6
+    MAZDA_TT_RR_720: 51.8
+  response: 7280762C902473E433D

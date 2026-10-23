@@ -1,0 +1,37 @@
+command_id: 720.728.22C901
+test_cases:
+- expected_values:
+    MAZDA_C901_RAW: 128
+    MAZDA_TP_FL_720: 25.6
+    MAZDA_TP_FR_720: 26
+    MAZDA_TP_RL_720: 24.8
+    MAZDA_TP_RR_720: 25.6
+  response: 7280762C90180827C80
+- expected_values:
+    MAZDA_C901_RAW: 144
+    MAZDA_TP_FL_720: 28.8
+    MAZDA_TP_FR_720: 28.8
+    MAZDA_TP_RL_720: 28.2
+    MAZDA_TP_RR_720: 28.4
+  response: 7280762C90190908D8E
+- expected_values:
+    MAZDA_C901_RAW: 144
+    MAZDA_TP_FL_720: 28.8
+    MAZDA_TP_FR_720: 29
+    MAZDA_TP_RL_720: 28.2
+    MAZDA_TP_RR_720: 28.2
+  response: 7280762C90190918D8D
+- expected_values:
+    MAZDA_C901_RAW: 146
+    MAZDA_TP_FL_720: 29.2
+    MAZDA_TP_FR_720: 29
+    MAZDA_TP_RL_720: 28.6
+    MAZDA_TP_RR_720: 28.2
+  response: 7280762C90192918F8D
+- expected_values:
+    MAZDA_C901_RAW: 147
+    MAZDA_TP_FL_720: 29.4
+    MAZDA_TP_FR_720: 28.8
+    MAZDA_TP_RL_720: 28
+    MAZDA_TP_RR_720: 28.4
+  response: 7280762C90193908C8E

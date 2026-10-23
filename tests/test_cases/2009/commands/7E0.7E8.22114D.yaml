@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22114D
+test_cases:
+- expected_values:
+    MAZDA_ECT_V: 8.896
+  response: 7E80562114D22C0
+- expected_values:
+    MAZDA_ECT_V: 8.96
+  response: 7E80562114D2300
+- expected_values:
+    MAZDA_ECT_V: 27.008
+  response: 7E80562114D6980
